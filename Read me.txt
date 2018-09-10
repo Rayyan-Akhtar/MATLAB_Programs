@@ -1,6 +1,0 @@
-This package has four different files. The code is written to plot the uniform linear array 
-beam pattern. Beam pattern depends on the spacing between the sensors, number of sensors and 
-signal wavelength or frequency. Electronic steering of the beam is also considered in two files 
-among them. The user will be prompted to enter the desired values of spacing between the 
-sensors, number of sensors and signal wavelength. 
-GUI is also provided to select the spacing between the sensors.
